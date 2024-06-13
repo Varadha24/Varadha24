@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Varadha24
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning btech
+- 👀 I’m interested in Robotics and Coding
+- 🌱 I’m BTech ECE graduate '24
+  
 
 <!---
 Varadha24/Varadha24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
