@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Varadha24
-- 👀 I’m interested in Robotics and Coding
+- 👋 Hi, I’m Varadha V R
 - 🌱 I’m BTech ECE graduate '24
+- 👀 Specializing in IoT and Embedded System
+- 🤖 Robotics Enthusiast
   
 
 <!---
