@@ -1,7 +1,11 @@
 # 👋 Hi, I'm Varadha
-Robotics Systems Engineer building real-world automation systems by combining robotics, embedded systems, and software.<br><br>⚙️ I work on:<br>• Industrial robotics & automation (6-axis arms, workflows)<br>• Embedded systems & IoT (ESP32, STM32, Raspberry Pi)<br>• Computer vision & intelligent systems<br><br>💡 I enjoy building end-to-end systems — from hardware integration to software logic and deployment.<br><br>🧠 Currently exploring:<br>• Advanced robotics systems<br>• AI + automation integration<br>• Scalable embedded solutions<br><br>🔗 Portfolio: https://varadha24.github.io/Portfolio/<br>
+Robotics Systems Engineer building real-world automation systems by combining robotics, embedded systems, and software.<br><br>⚙️ I work on:<br>• Industrial robotics & automation (6-axis arms, workflows)<br>• Embedded systems & IoT (ESP32, STM32, Raspberry Pi)<br>• Computer vision & intelligent systems<br><br>💡 I enjoy building end-to-end systems — from hardware integration to software logic and deployment.<br><br>🧠 Currently exploring:<br>• Advanced robotics systems<br>• AI + automation integration<br>• Scalable embedded solutions<br>
 
 <p align="left">
+  <a href="https://varadha24.github.io/Portfolio/" target="blank">
+    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" height="30" width="40" />
+  </a>
+  &nbsp;
   <a href="https://www.linkedin.com/in/varadha-vr" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
   </a>
