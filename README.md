@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Varadha
-<br>Robotics Systems Engineer building real-world automation systems by combining robotics, embedded systems, and software.<br><br>⚙️ I work on:<br>• Industrial robotics & automation (6-axis arms, workflows)<br>• Embedded systems & IoT (ESP32, STM32, Raspberry Pi)<br>• Computer vision & intelligent systems<br><br>💡 I enjoy building end-to-end systems — from hardware integration to software logic and deployment.<br><br>🧠 Currently exploring:<br>• Advanced robotics systems<br>• AI + automation integration<br>• Scalable embedded solutions<br><br>🔗 Portfolio: https://varadha24.github.io/Portfolio/<br>🔗 LinkedIn: https://www.linkedin.com/in/varadha-vr/
+Robotics Systems Engineer building real-world automation systems by combining robotics, embedded systems, and software.<br><br>⚙️ I work on:<br>• Industrial robotics & automation (6-axis arms, workflows)<br>• Embedded systems & IoT (ESP32, STM32, Raspberry Pi)<br>• Computer vision & intelligent systems<br><br>💡 I enjoy building end-to-end systems — from hardware integration to software logic and deployment.<br><br>🧠 Currently exploring:<br>• Advanced robotics systems<br>• AI + automation integration<br>• Scalable embedded solutions<br><br>🔗 Portfolio: https://varadha24.github.io/Portfolio/<br>🔗 LinkedIn: https://www.linkedin.com/in/varadha-vr/
 
 
 ## 🌐 Socials:
