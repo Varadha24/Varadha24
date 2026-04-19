@@ -3,9 +3,11 @@ Robotics Systems Engineer building real-world automation systems by combining ro
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/varadha-vr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/varadha-vr" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/varadha-vr" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="varadha-vr" height="30" width="40" />
+</a>
 <a href="mailto:varadhavr24@gmail.com" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" alt="email" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" alt="email" height="30" width="40" style="filter: invert(1);" />
 </a>
 </p>
 
