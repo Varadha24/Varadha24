@@ -1,5 +1,7 @@
 # 👋 Hi, I'm Varadha
-Robotics Systems Engineer building real-world automation systems by combining robotics, embedded systems, and software.<br><br>⚙️ I work on:<br>• Industrial robotics & automation (6-axis arms, workflows)<br>• Embedded systems & IoT (ESP32, STM32, Raspberry Pi)<br>• Computer vision & intelligent systems<br><br>💡 I enjoy building end-to-end systems — from hardware integration to software logic and deployment.<br><br>🧠 Currently exploring:<br>• Advanced robotics systems<br>• AI + automation integration<br>• Scalable embedded solutions<br><br> 🔗 Portfolio: https://varadha24.github.io/Portfolio/ 
+Robotics Systems Engineer building real-world automation systems by combining robotics, embedded systems, and software.<br><br>⚙️ I work on:<br>• Industrial robotics & automation (6-axis arms, workflows)<br>• Embedded systems & IoT (ESP32, STM32, Raspberry Pi)<br>• Computer vision & intelligent systems<br><br>💡 I enjoy building end-to-end systems — from hardware integration to software logic and deployment.<br><br>🧠 Currently exploring:<br>• Advanced robotics systems<br>• AI + automation integration<br>• Scalable embedded solutions<br><br> 🔗 Portfolio: https://varadha24.github.io/Portfolio/ <br>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadha24&label=Profile%20views&color=0e75b6&style=flat" alt="varadha24" /> </p>
 
 # 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/varadha-vr/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:varadhavr24@gmail.com) 
@@ -12,6 +14,5 @@ Robotics Systems Engineer building real-world automation systems by combining ro
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Varadha24&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=varadha24&label=Profile%20views&color=0e75b6&style=flat" alt="varadha24" /> </p>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
